@@ -7,6 +7,7 @@ Congratulations on your new job! As the new lead analyst for the New York Citi B
 Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to an external site.
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
+<img width="603" alt="Screenshot 2023-09-07 at 11 08 38 PM" src="https://github.com/javsgon/Tableau_Challenge/assets/125521896/b931c170-24a3-4ec6-bf1f-b18d5ee71c26">
 
 ## Deployment
 Please find below the link to the Tableau dashboard, showcasing the results of the analysis:
