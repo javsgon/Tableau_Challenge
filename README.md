@@ -1,6 +1,6 @@
 # Tableau Challenge
 ## Objective
-Publish a Tableau dashbord with New York Citi Bike data.
+Publish a Tableau dashboard with New York Citi Bike data.
 
 ## Background
 
