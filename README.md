@@ -1,8 +1,10 @@
 # Tableau Challenge
+## Objective
+Publish a Tableau dashbord with New York Citi Bike data.
 
 ## Background
 
-Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+As the new lead analyst for the New York Citi BikeLinks to an external site. program, I am now responsible for overseeing the largest bike-sharing program in the United States. In the new role, it is expected to generate regular reports for city officials looking to publicize and improve the city program.
 
 Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to an external site.
 
@@ -14,11 +16,11 @@ Please find below the link to the Tableau dashboard, showcasing the results of t
 https://public.tableau.com/app/profile/javier.saldana1893/viz/CityBikeTableauChallenge/Story1
 
 ## Instructions
-1. Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
+1. The task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
-- Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
+- Design 2–5 visualizations for each discovered phenomenon (4–10 total). Free tiemespan. Optionally, multiple datasets can be merged from different periods.
 
-- Use your visualizations (not necessarily all of them) to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why the phenomenon may be occurring.
+- Use the visualizations (not necessarily all of them) to design a dashboard for each phenomenon. 
 
 - Create one of the following visualizations for city officials:
 
@@ -27,9 +29,9 @@ https://public.tableau.com/app/profile/javier.saldana1893/viz/CityBikeTableauCha
   - Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
 
-- Create your final presentation:
+- Create the final presentation:
 
-- Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
+  - Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
 
 ## Data Source
